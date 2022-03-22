@@ -6,5 +6,17 @@ Welcome to the IECSE Web Bootcamp Spring 2022! We, at IECSE present before you a
 
 [wiki](https://github.com/Prajnaprabhu3/IECSE-Web-Winter-2022/wiki) for further instructions
 
+<br>
+
+[![Website](https://img.shields.io/badge/IECSE_Website-5237B5?style=for-the-badge&logo=About.IECSE&logoColor=white)](https://iecsemanipal.com/) &nbsp;
+[![Instagram](https://img.shields.io/badge/iecsemanipal-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iecsemanipal/) &nbsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/iecse-hashtag/latest) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ie-cse-manipal/) &nbsp;
+
+
+
+
+
+
 
 
